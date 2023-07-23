@@ -11,9 +11,9 @@ Installing S4A requires you to install software both in your PC and your Arduino
 
 Installing S4A into your computer
 S4A works in the three major consumer operating systems. Download and install the one that fits your configuration:
-* Windows
-* Linux (Debian)
-* Raspbian (Debian for RaspberryPi) (version 1.5)
+* [Windows](http://s4a.cat/downloads/S4A16.zip)
+* [Linux (Debian)](http://s4a.cat/downloads/S4A16.deb)
+* [Raspbian](http://s4a.cat/downloads/S4A15_RP.deb) (Debian for RaspberryPi) (version 1.5)
 
 ## Installing the Firmware into your Arduino
 This firmware is a piece of software you need to install into your Arduino board to be able to communicate with it from S4A.
